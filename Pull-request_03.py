@@ -1,1 +1,0 @@
-print("Continúa generandose el pull hacia https://github.com/ramonloes/tania_python_lab ")
